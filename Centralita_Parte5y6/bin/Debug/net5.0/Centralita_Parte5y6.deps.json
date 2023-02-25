@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Centralita_Parte5y6/1.0.0": {
+        "dependencies": {
+          "Centralita_Parte5y6_Interfaz_Archivos": "1.0.0"
+        },
+        "runtime": {
+          "Centralita_Parte5y6.dll": {}
+        }
+      },
+      "Centralita_Parte5y6_Interfaz_Archivos/1.0.0": {
+        "runtime": {
+          "Centralita_Parte5y6_Interfaz_Archivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Centralita_Parte5y6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Centralita_Parte5y6_Interfaz_Archivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\bin\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\bin\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\bin\Debug\net5.0\ref\BibliotecaCartuchera_ManejoInterfaces.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\bin\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\ref\BibliotecaCartuchera_ManejoInterfaces.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaCartuchera_ManejoInterfaces\obj\Debug\net5.0\BibliotecaCartuchera_ManejoInterfaces.pdb

@@ -1,0 +1,10 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\obj\Debug\netstandard2.1\Centralita3.0.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\obj\Debug\netstandard2.1\Centralita3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\obj\Debug\netstandard2.1\Centralita3.0.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\obj\Debug\netstandard2.1\Centralita3.0.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\obj\Debug\netstandard2.1\Centralita3.0.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\bin\Debug\netstandard2.1\Centralita3.0.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\bin\Debug\netstandard2.1\Centralita3.0.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\bin\Debug\netstandard2.1\Centralita3.0.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\obj\Debug\netstandard2.1\Centralita3.0.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita3.0\obj\Debug\netstandard2.1\Centralita3.0.pdb

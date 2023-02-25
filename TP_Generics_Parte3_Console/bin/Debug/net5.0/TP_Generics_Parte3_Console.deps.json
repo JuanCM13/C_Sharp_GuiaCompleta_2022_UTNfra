@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TP_Generics_Parte3_Console/1.0.0": {
+        "dependencies": {
+          "TP_Generics_Parte3_Entidades": "1.0.0"
+        },
+        "runtime": {
+          "TP_Generics_Parte3_Console.dll": {}
+        }
+      },
+      "TP_Generics_Parte3_Entidades/1.0.0": {
+        "runtime": {
+          "TP_Generics_Parte3_Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP_Generics_Parte3_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP_Generics_Parte3_Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

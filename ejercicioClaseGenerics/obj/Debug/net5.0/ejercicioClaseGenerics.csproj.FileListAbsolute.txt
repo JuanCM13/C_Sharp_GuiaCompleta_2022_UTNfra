@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\bin\Debug\net5.0\ejercicioClaseGenerics.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\bin\Debug\net5.0\ejercicioClaseGenerics.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\bin\Debug\net5.0\ref\ejercicioClaseGenerics.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\bin\Debug\net5.0\ejercicioClaseGenerics.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ejercicioClaseGenerics.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ejercicioClaseGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ejercicioClaseGenerics.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ejercicioClaseGenerics.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ejercicioClaseGenerics.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ejercicioClaseGenerics.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ref\ejercicioClaseGenerics.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseGenerics\obj\Debug\net5.0\ejercicioClaseGenerics.pdb

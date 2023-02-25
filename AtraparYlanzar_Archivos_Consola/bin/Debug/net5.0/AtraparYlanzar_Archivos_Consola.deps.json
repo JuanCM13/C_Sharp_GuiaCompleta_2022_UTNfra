@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AtraparYlanzar_Archivos_Consola/1.0.0": {
+        "dependencies": {
+          "IO": "1.0.0",
+          "MiClase": "1.0.0"
+        },
+        "runtime": {
+          "AtraparYlanzar_Archivos_Consola.dll": {}
+        }
+      },
+      "IO/1.0.0": {
+        "runtime": {
+          "IO.dll": {}
+        }
+      },
+      "MiClase/1.0.0": {
+        "runtime": {
+          "MiClase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtraparYlanzar_Archivos_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiClase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

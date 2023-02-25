@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer50Form/1.0.0": {
+        "dependencies": {
+          "Centralita2": "1.0.0"
+        },
+        "runtime": {
+          "ejer50Form.dll": {}
+        }
+      },
+      "Centralita2/1.0.0": {
+        "runtime": {
+          "Centralita2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer50Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Centralita2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

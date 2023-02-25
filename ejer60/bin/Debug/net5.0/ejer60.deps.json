@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer60/1.0.0": {
+        "dependencies": {
+          "GenericsContabilidad_Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "ejer60.dll": {}
+        }
+      },
+      "GenericsContabilidad_Biblioteca/1.0.0": {
+        "runtime": {
+          "GenericsContabilidad_Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer60/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericsContabilidad_Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

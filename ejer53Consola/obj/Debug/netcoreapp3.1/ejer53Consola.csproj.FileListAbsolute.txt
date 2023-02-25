@@ -1,0 +1,17 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\ejer53Consola.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\ejer53Consola.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\ejer53Consola.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\ejer53Consola.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\ejer53Consola.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\ejer53Consola.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\Centralita3.0.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\bin\Debug\netcoreapp3.1\Centralita3.0.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.csproj.CopyComplete
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer53Consola\obj\Debug\netcoreapp3.1\ejer53Consola.genruntimeconfig.cache

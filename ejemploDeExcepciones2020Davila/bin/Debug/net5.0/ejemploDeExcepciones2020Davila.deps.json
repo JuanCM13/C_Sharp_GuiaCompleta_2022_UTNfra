@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejemploDeExcepciones2020Davila/1.0.0": {
+        "runtime": {
+          "ejemploDeExcepciones2020Davila.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejemploDeExcepciones2020Davila/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

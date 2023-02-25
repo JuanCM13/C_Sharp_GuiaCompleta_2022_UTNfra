@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer47/1.0.0": {
+        "dependencies": {
+          "Centralita1": "1.0.0"
+        },
+        "runtime": {
+          "ejer47.dll": {}
+        }
+      },
+      "Centralita1/1.0.0": {
+        "runtime": {
+          "Centralita1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer47/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Centralita1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

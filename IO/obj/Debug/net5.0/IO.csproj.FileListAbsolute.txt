@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\bin\Debug\net5.0\IO.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\bin\Debug\net5.0\IO.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\bin\Debug\net5.0\ref\IO.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\bin\Debug\net5.0\IO.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\IO.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\IO.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\IO.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\IO.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\ref\IO.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\IO\obj\Debug\net5.0\IO.pdb

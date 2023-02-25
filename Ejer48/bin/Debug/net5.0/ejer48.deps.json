@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer48/1.0.0": {
+        "dependencies": {
+          "SobreescritoEjemploEjer48": "1.0.0"
+        },
+        "runtime": {
+          "ejer48.dll": {}
+        }
+      },
+      "SobreescritoEjemploEjer48/1.0.0": {
+        "runtime": {
+          "SobreescritoEjemploEjer48.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer48/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SobreescritoEjemploEjer48/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

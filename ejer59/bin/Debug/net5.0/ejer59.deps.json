@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer59/1.0.0": {
+        "dependencies": {
+          "GenericsTorneoBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "ejer59.dll": {}
+        }
+      },
+      "GenericsTorneoBiblioteca/1.0.0": {
+        "runtime": {
+          "GenericsTorneoBiblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer59/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericsTorneoBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

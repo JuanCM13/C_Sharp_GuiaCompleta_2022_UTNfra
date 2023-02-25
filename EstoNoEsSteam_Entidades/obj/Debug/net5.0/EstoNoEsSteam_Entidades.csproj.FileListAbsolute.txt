@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\bin\Debug\net5.0\EstoNoEsSteam_Entidades.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\bin\Debug\net5.0\EstoNoEsSteam_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\bin\Debug\net5.0\ref\EstoNoEsSteam_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\bin\Debug\net5.0\EstoNoEsSteam_Entidades.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\EstoNoEsSteam_Entidades.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\EstoNoEsSteam_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\EstoNoEsSteam_Entidades.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\EstoNoEsSteam_Entidades.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\EstoNoEsSteam_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\EstoNoEsSteam_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\ref\EstoNoEsSteam_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstoNoEsSteam_Entidades\obj\Debug\net5.0\EstoNoEsSteam_Entidades.pdb

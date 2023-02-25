@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\bin\Debug\net5.0\SobreescritoEjemploEjer48.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\bin\Debug\net5.0\SobreescritoEjemploEjer48.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\bin\Debug\net5.0\ref\SobreescritoEjemploEjer48.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\bin\Debug\net5.0\SobreescritoEjemploEjer48.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\SobreescritoEjemploEjer48.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\SobreescritoEjemploEjer48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\SobreescritoEjemploEjer48.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\SobreescritoEjemploEjer48.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\SobreescritoEjemploEjer48.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\SobreescritoEjemploEjer48.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\ref\SobreescritoEjemploEjer48.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\SobreescritoEjemploEjer48\obj\Debug\net5.0\SobreescritoEjemploEjer48.pdb

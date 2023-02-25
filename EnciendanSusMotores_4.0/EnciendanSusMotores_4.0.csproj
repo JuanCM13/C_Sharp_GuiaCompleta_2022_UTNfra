@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>EnciendanSusMotores_4._0</RootNamespace>
+  </PropertyGroup>
+
+</Project>

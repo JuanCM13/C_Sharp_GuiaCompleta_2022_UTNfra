@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\bin\Debug\net5.0\TP_Generics_Parte3_Entidades.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\bin\Debug\net5.0\TP_Generics_Parte3_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\bin\Debug\net5.0\ref\TP_Generics_Parte3_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\bin\Debug\net5.0\TP_Generics_Parte3_Entidades.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\TP_Generics_Parte3_Entidades.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\TP_Generics_Parte3_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\TP_Generics_Parte3_Entidades.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\TP_Generics_Parte3_Entidades.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\TP_Generics_Parte3_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\TP_Generics_Parte3_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\ref\TP_Generics_Parte3_Entidades.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\TP_Generics_Parte3_Entidades\obj\Debug\net5.0\TP_Generics_Parte3_Entidades.pdb

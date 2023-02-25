@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\bin\Debug\net5.0\MiPrimerCruz_BaseDatos.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\bin\Debug\net5.0\MiPrimerCruz_BaseDatos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\bin\Debug\net5.0\ref\MiPrimerCruz_BaseDatos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\bin\Debug\net5.0\MiPrimerCruz_BaseDatos.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\MiPrimerCruz_BaseDatos.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\MiPrimerCruz_BaseDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\MiPrimerCruz_BaseDatos.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\MiPrimerCruz_BaseDatos.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\MiPrimerCruz_BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\MiPrimerCruz_BaseDatos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\ref\MiPrimerCruz_BaseDatos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MiPrimerCruz_BaseDatos\obj\Debug\net5.0\MiPrimerCruz_BaseDatos.pdb

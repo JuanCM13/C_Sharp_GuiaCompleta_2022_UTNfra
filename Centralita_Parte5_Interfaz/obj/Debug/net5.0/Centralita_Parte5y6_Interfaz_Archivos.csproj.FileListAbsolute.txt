@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\bin\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\bin\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\bin\Debug\net5.0\ref\Centralita_Parte5y6_Interfaz_Archivos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\bin\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\ref\Centralita_Parte5y6_Interfaz_Archivos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita_Parte5_Interfaz\obj\Debug\net5.0\Centralita_Parte5y6_Interfaz_Archivos.pdb

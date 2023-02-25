@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\bin\Debug\net5.0\GenericsTorneoBiblioteca.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\bin\Debug\net5.0\GenericsTorneoBiblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\bin\Debug\net5.0\ref\GenericsTorneoBiblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\bin\Debug\net5.0\GenericsTorneoBiblioteca.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\GenericsTorneoBiblioteca.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\GenericsTorneoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\GenericsTorneoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\GenericsTorneoBiblioteca.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\GenericsTorneoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\GenericsTorneoBiblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\ref\GenericsTorneoBiblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsTorneoBiblioteca\obj\Debug\net5.0\GenericsTorneoBiblioteca.pdb

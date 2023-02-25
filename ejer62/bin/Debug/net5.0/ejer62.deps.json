@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer62/1.0.0": {
+        "dependencies": {
+          "BibliotecaCartuchera_ManejoInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "ejer62.dll": {}
+        }
+      },
+      "BibliotecaCartuchera_ManejoInterfaces/1.0.0": {
+        "runtime": {
+          "BibliotecaCartuchera_ManejoInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer62/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaCartuchera_ManejoInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

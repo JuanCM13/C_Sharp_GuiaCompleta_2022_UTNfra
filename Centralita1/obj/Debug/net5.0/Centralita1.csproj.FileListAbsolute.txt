@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\bin\Debug\net5.0\Centralita1.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\bin\Debug\net5.0\Centralita1.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\bin\Debug\net5.0\ref\Centralita1.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\bin\Debug\net5.0\Centralita1.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\Centralita1.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\Centralita1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\Centralita1.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\Centralita1.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\Centralita1.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\Centralita1.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\ref\Centralita1.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Centralita1\obj\Debug\net5.0\Centralita1.pdb

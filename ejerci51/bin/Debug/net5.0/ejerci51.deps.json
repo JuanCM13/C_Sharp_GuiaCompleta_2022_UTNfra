@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejerci51/1.0.0": {
+        "dependencies": {
+          "MiClase": "1.0.0"
+        },
+        "runtime": {
+          "ejerci51.dll": {}
+        }
+      },
+      "MiClase/1.0.0": {
+        "runtime": {
+          "MiClase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejerci51/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiClase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

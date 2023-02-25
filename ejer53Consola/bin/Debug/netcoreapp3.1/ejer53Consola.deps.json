@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ejer53Consola/1.0.0": {
+        "dependencies": {
+          "Centralita3.0": "1.0.0"
+        },
+        "runtime": {
+          "ejer53Consola.dll": {}
+        }
+      },
+      "Centralita3.0/1.0.0": {
+        "runtime": {
+          "Centralita3.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer53Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Centralita3.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

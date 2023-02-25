@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer49/1.0.0": {
+        "dependencies": {
+          "Figuras": "1.0.0"
+        },
+        "runtime": {
+          "ejer49.dll": {}
+        }
+      },
+      "Figuras/1.0.0": {
+        "runtime": {
+          "Figuras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer49/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Figuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

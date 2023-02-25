@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SobreescritoEjemploEjer48/1.0.0": {
+        "runtime": {
+          "SobreescritoEjemploEjer48.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SobreescritoEjemploEjer48/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

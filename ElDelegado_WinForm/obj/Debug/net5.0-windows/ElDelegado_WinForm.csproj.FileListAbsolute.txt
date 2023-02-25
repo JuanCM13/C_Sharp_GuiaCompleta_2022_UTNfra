@@ -1,0 +1,16 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\bin\Debug\net5.0-windows\ElDelegado_WinForm.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\bin\Debug\net5.0-windows\ElDelegado_WinForm.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\bin\Debug\net5.0-windows\ElDelegado_WinForm.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\bin\Debug\net5.0-windows\ElDelegado_WinForm.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\bin\Debug\net5.0-windows\ElDelegado_WinForm.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\bin\Debug\net5.0-windows\ref\ElDelegado_WinForm.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\bin\Debug\net5.0-windows\ElDelegado_WinForm.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ref\ElDelegado_WinForm.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ElDelegado_WinForm\obj\Debug\net5.0-windows\ElDelegado_WinForm.genruntimeconfig.cache

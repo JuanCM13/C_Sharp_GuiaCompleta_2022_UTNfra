@@ -1,0 +1,16 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\bin\Debug\net5.0\ejemploDeExcepciones2020Davila.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\bin\Debug\net5.0\ejemploDeExcepciones2020Davila.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\bin\Debug\net5.0\ejemploDeExcepciones2020Davila.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\bin\Debug\net5.0\ejemploDeExcepciones2020Davila.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\bin\Debug\net5.0\ejemploDeExcepciones2020Davila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\bin\Debug\net5.0\ref\ejemploDeExcepciones2020Davila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\bin\Debug\net5.0\ejemploDeExcepciones2020Davila.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ref\ejemploDeExcepciones2020Davila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejemploDeExcepciones2020Davila\obj\Debug\net5.0\ejemploDeExcepciones2020Davila.genruntimeconfig.cache

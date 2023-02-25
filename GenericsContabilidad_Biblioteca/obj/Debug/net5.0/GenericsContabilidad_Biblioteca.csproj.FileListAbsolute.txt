@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\bin\Debug\net5.0\GenericsContabilidad_Biblioteca.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\bin\Debug\net5.0\GenericsContabilidad_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\bin\Debug\net5.0\ref\GenericsContabilidad_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\bin\Debug\net5.0\GenericsContabilidad_Biblioteca.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\GenericsContabilidad_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\GenericsContabilidad_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\GenericsContabilidad_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\GenericsContabilidad_Biblioteca.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\GenericsContabilidad_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\GenericsContabilidad_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\ref\GenericsContabilidad_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\GenericsContabilidad_Biblioteca\obj\Debug\net5.0\GenericsContabilidad_Biblioteca.pdb
